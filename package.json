@@ -1,0 +1,23 @@
+{
+  "name": "assets-integrate-webpack-plugin",
+  "version": "1.0.1",
+  "description": "integrate assets to a template file and output a single file with given name.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/xiaoyaozi1010/assets-integrate-webpack-plugin.git"
+  },
+  "keywords": [
+    "backend",
+    "integrate",
+    "webpack-plugin"
+  ],
+  "author": "lizy(zhiyongli@tencent.com)",
+  "license": "MIT",
+  "dependencies": {
+    "ejs": "^2.7.1"
+  }
+}
