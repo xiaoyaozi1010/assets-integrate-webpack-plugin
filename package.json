@@ -1,6 +1,6 @@
 {
   "name": "assets-integrate-webpack-plugin",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "integrate assets to a template file and output a single file with given name.",
   "main": "index.js",
   "scripts": {
